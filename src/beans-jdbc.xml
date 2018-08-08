@@ -30,5 +30,5 @@
     </bean>
 
     <!-- 启动自动扫描组件 -->
-    <context:component-scan base-package="com.jdbc"/>
+    <context:component-scan base-package="com.tx"/>
 </beans>
